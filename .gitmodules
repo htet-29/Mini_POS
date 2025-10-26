@@ -1,6 +1,6 @@
-[submodule "server"]
+[submodule "server @ f6173ce"]
 	path = server
 	url = https://github.com/htet-29/mini-pos-server.git
-[submodule "client"]
+[submodule "client @ f20b755"]
 	path = client
 	url = https://github.com/htet-29/mini-pos-client.git
