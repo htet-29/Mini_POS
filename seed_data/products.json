@@ -1,0 +1,26 @@
+[
+  {
+    "product_name": "Beer",
+    "product_price": 150,
+    "priduct_cost": 140,
+    "product_code": "d_001"
+  },
+  {
+    "product_name": "M-150",
+    "product_price": 110,
+    "priduct_cost": 90,
+    "product_code": "d_002"
+  },
+  {
+    "product_name": "Carabao_150ml",
+    "product_price": 110,
+    "priduct_cost": 90,
+    "product_code": "d_003"
+  },
+  {
+    "product_name": "Carabao_250ml",
+    "product_price": 160,
+    "priduct_cost": 120,
+    "product_code": "d_004"
+  }
+]
